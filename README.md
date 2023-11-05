@@ -45,7 +45,7 @@ Users should be able to:
 
 Beginning to see a viable workflow emerge. Mobile first for the styling; then desktop for the layout. The tricky part was getting the cards to behave.
 I had to do a few experiments on the side while I allowed the mobile version to chill. These experiments allowed me to get a grip on overlapping grid items using negative margins.
-Lastly, when it was time to incorporate the grid into the design, I switched from naming the columns / rows explicitly and was ablw to get grid-template-area to work.
+Lastly, when it was time to incorporate the grid into the design, I switched from naming the columns / rows explicitly and was able to get grid-template-area to work.
 
 ```css
 main {
